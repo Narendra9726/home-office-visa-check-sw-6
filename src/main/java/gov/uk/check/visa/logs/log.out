@@ -1,0 +1,63 @@
+2023-12-18 18:12:471 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 18:12:228 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 18:12:704 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 18:12:449 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 18:12:794 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 18:12:508 INFO  SelectNationalityPage :28 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (3b92fa83f49dd568a6822c48f42fd7b0)] -> xpath: //select[@id='response']]
+2023-12-18 18:12:741 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (3b92fa83f49dd568a6822c48f42fd7b0)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 18:12:105 INFO  ReasonForTravelPage :40 - select reason 'Tourism ' for visit 
+2023-12-18 18:12:540 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (3b92fa83f49dd568a6822c48f42fd7b0)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 18:12:143 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 18:12:398 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 18:12:330 INFO  SelectNationalityPage :28 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (594be10580274c954bdccdc1d6958e05)] -> xpath: //select[@id='response']]
+2023-12-18 18:12:576 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (594be10580274c954bdccdc1d6958e05)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 18:12:908 INFO  ReasonForTravelPage :40 - select reason 'Work, academic visit or business ' for visit 
+2023-12-18 18:12:349 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (594be10580274c954bdccdc1d6958e05)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 18:12:270 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (594be10580274c954bdccdc1d6958e05)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 18:12:556 INFO  WorkTypePage :25 - select job type  ' Health and care professional ' 
+2023-12-18 18:12:919 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (594be10580274c954bdccdc1d6958e05)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 18:12:433 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 18:12:715 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 18:12:446 INFO  SelectNationalityPage :28 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (77bca2f2cd60448acd6d01f7e544a3bb)] -> xpath: //select[@id='response']]
+2023-12-18 18:12:714 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (77bca2f2cd60448acd6d01f7e544a3bb)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 18:12:28 INFO  ReasonForTravelPage :40 - select reason 'Join partner or family for a long stay ' for visit 
+2023-12-18 18:12:434 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (77bca2f2cd60448acd6d01f7e544a3bb)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-19 17:12:624 INFO  StartPage :32 - clickOnStart: [[ChromeDriver: chrome on windows (1c77a34564b5a809e32a4ea8b0c19021)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-19 17:12:309 INFO  StartPage :32 - clickOnStart: [[ChromeDriver: chrome on windows (c7303a398432e12549bfd3960a230b94)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-19 17:12:882 INFO  ReasonForTravelPage :36 - selectReason [[ChromeDriver: chrome on windows (c7303a398432e12549bfd3960a230b94)] -> id: response-1]
+2023-12-19 17:12:255 INFO  StartPage :32 - clickOnStart: [[ChromeDriver: chrome on windows (96456a4a360286fc3b29d1a94361de5c)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-19 17:12:738 INFO  ReasonForTravelPage :36 - selectReason [[ChromeDriver: chrome on windows (96456a4a360286fc3b29d1a94361de5c)] -> id: response-1]
+2023-12-19 17:12:815 INFO  StartPage :32 - clickOnStart: [[ChromeDriver: chrome on windows (307abe2450f09a5e52c907b07762e558)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-19 17:12:378 INFO  ReasonForTravelPage :36 - selectReason [[ChromeDriver: chrome on windows (307abe2450f09a5e52c907b07762e558)] -> id: response-1]
+2023-12-19 17:12:82 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (4dd7b346ff7fb9b30c1037afdd83d043)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-19 17:12:646 INFO  StartPage :26 - Clicking on Accept additional cookies
+2023-12-19 17:12:688 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (1382b35d8911ed27cd0c3329f8bf3db3)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-19 17:12:299 INFO  ReasonForTravelPage :36 - selectReason [[ChromeDriver: chrome on windows (1382b35d8911ed27cd0c3329f8bf3db3)] -> id: response-1]
+2023-12-19 17:12:498 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (3107efa4ee77e307b7936cc02332baab)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-19 17:12:958 INFO  ReasonForTravelPage :36 - selectReason [[ChromeDriver: chrome on windows (3107efa4ee77e307b7936cc02332baab)] -> id: response-1]
+2023-12-19 17:12:219 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (1b4e568ea17e3c927bc4d642cbaae7c9)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-19 17:12:688 INFO  ReasonForTravelPage :36 - selectReason [[ChromeDriver: chrome on windows (1b4e568ea17e3c927bc4d642cbaae7c9)] -> id: response-1]
+2023-12-20 08:12:739 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (188c12805ee1814e7f1346926360db27)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-20 08:12:893 INFO  StartPage :26 - Clicking on Accept additional cookies
+2023-12-20 08:12:936 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (324680d1d105537f7270bd9967df8c63)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-20 08:12:638 INFO  ReasonForTravelPage :37 - selectReason [[ChromeDriver: chrome on windows (324680d1d105537f7270bd9967df8c63)] -> id: response-1]
+2023-12-20 08:12:953 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (e6a67b6d7266a6ff76786f96ff838705)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-20 08:12:382 INFO  ReasonForTravelPage :37 - selectReason [[ChromeDriver: chrome on windows (e6a67b6d7266a6ff76786f96ff838705)] -> id: response-1]
+2023-12-20 08:12:496 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (acce583d6e8ec1ccaffe7c2cc807a9d0)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-20 08:12:17 INFO  ReasonForTravelPage :37 - selectReason [[ChromeDriver: chrome on windows (acce583d6e8ec1ccaffe7c2cc807a9d0)] -> id: response-1]
+2023-12-20 08:12:399 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (54e61ad1c28e4d447a46ed684fd1cb58)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-20 08:12:514 INFO  StartPage :26 - Clicking on Accept additional cookies
+2023-12-20 08:12:559 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (96cef999cdf9bb1cf966172a3e9acbd7)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-20 08:12:269 INFO  ReasonForTravelPage :37 - selectReason [[ChromeDriver: chrome on windows (96cef999cdf9bb1cf966172a3e9acbd7)] -> id: response-1]
+2023-12-20 08:12:815 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (cc172e277eaa1df86dbd927bb052128a)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-20 08:12:295 INFO  ReasonForTravelPage :37 - selectReason [[ChromeDriver: chrome on windows (cc172e277eaa1df86dbd927bb052128a)] -> id: response-1]
+2023-12-20 08:12:532 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (ce1ee0303d83093c4b9a1be9efbceae2)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-20 08:12:00 INFO  ReasonForTravelPage :37 - selectReason [[ChromeDriver: chrome on windows (ce1ee0303d83093c4b9a1be9efbceae2)] -> id: response-1]
+2023-12-20 08:12:974 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (19399be06b930a04652268d4d3e6f8f6)] -> xpath: /html[1]/body[1]/div[3]/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]
+2023-12-20 08:12:80 INFO  StartPage :26 - Clicking on Accept additional cookies
+2023-12-20 08:12:122 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (2b5fc58af3c3ff1adf97f8a294068309)] -> xpath: /html[1]/body[1]/div[3]/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]
+2023-12-20 08:12:794 INFO  ReasonForTravelPage :37 - selectReason [[ChromeDriver: chrome on windows (2b5fc58af3c3ff1adf97f8a294068309)] -> id: response-1]
+2023-12-20 08:12:916 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (fa94d065b703035f4701943b9d01fde2)] -> xpath: /html[1]/body[1]/div[3]/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]
+2023-12-20 08:12:346 INFO  ReasonForTravelPage :37 - selectReason [[ChromeDriver: chrome on windows (fa94d065b703035f4701943b9d01fde2)] -> id: response-1]
+2023-12-20 08:12:916 INFO  StartPage :41 - clickOnStart: [[ChromeDriver: chrome on windows (f9e796d58d402b444a0e4a4b1e9f18f0)] -> xpath: /html[1]/body[1]/div[3]/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]]
+2023-12-20 08:12:674 INFO  ReasonForTravelPage :37 - selectReason [[ChromeDriver: chrome on windows (f9e796d58d402b444a0e4a4b1e9f18f0)] -> id: response-1]
